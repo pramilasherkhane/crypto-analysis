@@ -98,6 +98,21 @@ The Power BI dashboard provides a visual summary of the analysis:
   <img src="Home.png" width="800"/>
 </p>
 
+<p align="center">
+  <img src="Trends.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Risk.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Insights.png" width="800"/>
+</p>
+
+<p align="center">
+  <img src="Summary.png" width="800"/>
+</p>
 
 
 🧠 Skills Demonstrated
