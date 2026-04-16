@@ -69,11 +69,11 @@ The following tools and technologies were used:
 
 ## 📊 Dashboard
 
-### 🔹 Dashboard Overview
+### 📸 Dashboard Overview
 <p align="center">
   <img src="Home.png" width="800"/>
 </p>
-Provides a high-level summary of key metrics including price trends, trading volume, and overall market performance.
+Provides a high-level summary of Bitcoin performance with key KPIs and overall price trend.
 
 ---
 
@@ -81,7 +81,7 @@ Provides a high-level summary of key metrics including price trends, trading vol
 <p align="center">
   <img src="Trends.png" width="800"/>
 </p>
-Visualizes historical price movements, highlighting upward and downward trends across different time periods.
+Visualizes Bitcoin price trends over time with monthly and yearly analysis using interactive filters.
 
 ---
 
@@ -89,15 +89,15 @@ Visualizes historical price movements, highlighting upward and downward trends a
 <p align="center">
   <img src="Risk.png" width="800"/>
 </p>
-Displays trading volume patterns and their relationship with price fluctuations.
+Analyzes market volatility and daily returns to understand risk and profit-loss distribution.
 
 ---
 
-### 🎛️ Filters & Interactions
+### 🔍 Insights
 <p align="center">
   <img src="Insights.png" width="800"/>
 </p>
-Highlights key performance indicators such as average price, peak value, and volatility metrics.
+Explores the relationship between price movement and trading volume using advanced visual analysis.
 
 ---
 
@@ -105,7 +105,7 @@ Highlights key performance indicators such as average price, peak value, and vol
 <p align="center">
   <img src="Summary.png" width="800"/>
 </p>
-Allows users to interact with the dashboard by filtering data based on time periods and other parameters.
+Highlights key findings and conclusions derived from the overall cryptocurrency data analysis.
 
 ---
 
